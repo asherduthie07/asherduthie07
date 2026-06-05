@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 im Asher Duthie, and welcome to my githhub page 
 
 <!--
 **asherduthie07/asherduthie07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
