@@ -3,16 +3,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+Something+New" />
 </p>
 
-<br>
+<!-- TOP ANIMATED BANNER -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NlYzVzY3Z1YW54Y2QxM3A4NGRrOHlhOG5jb3hlMGJndjl0cnR3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="450" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:0066FF&height=250&section=header&text=Welcome%20To%20My%20Profile&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/216656986-9bcf6b7a-6d59-4b2f-a4d3-6e0d47cb8d9c.gif" width="100%">
 
 ## 👨‍💻 About Me
 
@@ -20,7 +20,7 @@
 🌱 Currently learning <b>Full Stack Development and Cybersecurity</b>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-c4d2-4d75-a84f-5f6f1e7d6e72.gif" width="100%">
 
 ## 🌐 Connect With Me
 
@@ -38,8 +38,10 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-c4d2-4d75-a84f-5f6f1e7d6e72.gif" width="100%">
+
+<!-- FOOTER BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00C4FF&height=120&section=footer"/>
 </p>
