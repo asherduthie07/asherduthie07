@@ -1,50 +1,36 @@
-# Animated Wave Banner
-
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:007CF0&height=250&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
-
----
-
-# Animated Intro Banner
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=100&section=header&text=Developer%20%7C%20Learner%20%7C%20Builder&fontColor=ffffff&fontSize=30&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C4FF,100:005BEA&text=Asher%20Duthie&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h1 align="center">
   Hi 👋, I'm Asher
 </h1>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Cybersecurity+Enthusiast;Always+Learning+New+Things;Welcome+to+my+GitHub!" />
 </p>
 
+<!-- Animated Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12&height=80&section=header" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656965-9a4f8f44-3f5c-4a5e-bb53-b4d7f68b1a84.gif" width="100%">
 </p>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-11c45f42-4935-4f35-b87b-fffa9f1c1f0f.gif">
 
 ## 👨‍💻 About Me
 
 <p align="center">
-🌱 Currently learning <b>Full Stack Development and Cybersecurity</b>
+🌱 Currently learning <b>Full Stack Development</b> and <b>Cybersecurity</b>
+<br><br>
+💡 Passionate about building projects and exploring how things work
+<br><br>
+🚀 Working towards becoming a skilled developer
 </p>
 
+<!-- Animated Divider -->
 <p align="center">
-💡 Passionate about building projects and exploring new technologies
+  <img src="https://user-images.githubusercontent.com/74038190/216656965-9a4f8f44-3f5c-4a5e-bb53-b4d7f68b1a84.gif" width="100%">
 </p>
-
-<p align="center">
-🚀 Working towards becoming a skilled software engineer
-</p>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284103-2dc0f89e-bc4f-4d1d-a2a5-8bce1f1d09f6.gif">
 
 ## 🌐 Connect With Me
 
@@ -62,8 +48,7 @@
   </a>
 </p>
 
----
-
+<!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00C4FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:005BEA,100:00C4FF"/>
 </p>
