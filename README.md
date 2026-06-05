@@ -1,19 +1,13 @@
-
-
-<!-- TOP ANIMATED BANNER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:0066FF&height=150&section=header&text=Welcome%20To%20My%20Profile&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
-
 <img src="https://user-images.githubusercontent.com/74038190/216656986-9bcf6b7a-6d59-4b2f-a4d3-6e0d47cb8d9c.gif" width="100%">
-
 <h1 align="center">
   Hi 👋, I'm Asher
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Github+Profile;" />
 </p>
 
 ## 👨‍💻 About Me
