@@ -37,6 +37,27 @@ Student at **Karunya Institute of Technology and Sciences**
 
 <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-c4d2-4d75-a84f-5f6f1e7d6e72.gif" width="100%">
 
+
+
+
+<div align="center">
+
+<a href="https://github.com/asherduthie07?tab=repositories">
+
+<img src="https://img.shields.io/badge/%E2%9A%A1%20EXPLORE%20MY%20REPOSITORIES-00C4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+
+</a>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=600&height=35&lines=%3E%3E+Click+to+explore+what+I've+built+%F0%9F%9A%80;%3E%3E+Projects%2C+experiments+%26+everything+in+between+%F0%9F%92%BB" />
+
+</div>
+
+
+
+
+
 ## Domains I'm Currently Exploring
 
 <div align="center">
