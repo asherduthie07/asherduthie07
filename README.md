@@ -16,6 +16,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0D1117&height=90&text=Full-Stack%20Dev%20%F0%9F%92%BB%20%7C%20Cybersecurity%20%F0%9F%9B%A1%EF%B8%8F%20%7C%20Game%20Dev%20%F0%9F%8E%AE%20%7C%20AI%2FML%20%F0%9F%A4%96%20%7C%20Quantum%20Computing%20%E2%9A%9B%EF%B8%8F%20%7C%20Data%20Analytics%20%F0%9F%93%8A&fontSize=20&fontColor=39FF14&animation=twinkling&fontFamily=JetBrains%20Mono" />
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Full-Stack+Dev+%F0%9F%92%BB+%7C+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F+%7C+Game+Dev+%F0%9F%8E%AE;AI%2FML+%F0%9F%A4%96+%7C+Quantum+Computing+%E2%9A%9B%EF%B8%8F+%7C+Data+Analytics+%F0%9F%93%8A" />
+
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=asherduthie07&label=PROFILE+VIEWS&color=00C4FF&style=for-the-badge&labelColor=0D1117" />
