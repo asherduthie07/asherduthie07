@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=800&color=00C4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Still+exploring+every+corner+of+tech..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=800&color=00C4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Welcome+to+my+GitHub+Profile;" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Full-Stack+Dev+%F0%9F%92%BB+%7C+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F+%7C+Game+Dev+%F0%9F%8E%AE;AI%2FML+%F0%9F%A4%96+%7C+Quantum+Computing+%E2%9A%9B%EF%B8%8F+%7C+Data+Analytics+%F0%9F%93%8A" />
 
@@ -26,17 +26,15 @@
 
 <div align="center">
 
-🎓 Student at **Karunya Institute of Technology and Sciences**  
-🧭 Not locked into one lane yet — jumping between domains and enjoying the ride  
-🛠️ Currently exploring **Full-Stack Development, Cybersecurity, Game Development, Neural Networks, AI/ML, Quantum Computing & Data Analytics**  
-⚡ Learns by breaking things first, understanding them second  
-🌌 Every repo here is a checkpoint in that exploration — expect variety, not a single theme
+Student at **Karunya Institute of Technology and Sciences**  
+Currently exploring **Full-Stack Development, Cybersecurity, Game Development, Neural Networks, AI/ML, Quantum Computing & Data Analytics**    
+Every repo here is a checkpoint and a fun documentation in that exploration.
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-c4d2-4d75-a84f-5f6f1e7d6e72.gif" width="100%">
 
-## 🧭 Domains I'm Exploring
+## Domains I'm Currently Exploring
 
 <div align="center">
 
@@ -44,12 +42,13 @@
 <img src="https://img.shields.io/badge/CYBERSECURITY-FF3E3E?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/GAME%20DEV-9146FF?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/NEURAL%20NETWORKS-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/AIML-FF6F30?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/QUANTUM%20COMPUTING-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
 <img src="https://img.shields.io/badge/DATA%20ANALYTICS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -75,7 +74,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-c4d2-4d75-a84f-5f6f1e7d6e72.gif" width="100%">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
