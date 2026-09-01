@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=800&color=00C4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Welcome+to+my+GitHub+Profile;" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Full-Stack+Dev+%F0%9F%92%BB+%7C+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F+%7C+Game+Dev+%F0%9F%8E%AE;AI%2FML+%F0%9F%A4%96+%7C+Quantum+Computing+%E2%9A%9B%EF%B8%8F+%7C+Data+Analytics+%F0%9F%93%8A" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0D1117&height=90&text=Full-Stack%20Dev%20%F0%9F%92%BB%20%7C%20Cybersecurity%20%F0%9F%9B%A1%EF%B8%8F%20%7C%20Game%20Dev%20%F0%9F%8E%AE%20%7C%20AI%2FML%20%F0%9F%A4%96%20%7C%20Quantum%20Computing%20%E2%9A%9B%EF%B8%8F%20%7C%20Data%20Analytics%20%F0%9F%93%8A&fontSize=20&fontColor=39FF14&animation=twinkling&fontFamily=JetBrains%20Mono" />
 
 <br>
 
@@ -26,8 +26,8 @@
 
 <div align="center">
 
-Student at **Karunya Institute of Technology and Sciences**  
-Currently exploring **Full-Stack Development, Cybersecurity, Game Development, Neural Networks, AI/ML, Quantum Computing & Data Analytics**    
+Student at **Karunya Institute of Technology and Sciences**
+Currently exploring **Full-Stack Development, Cybersecurity, Game Development, Neural Networks, AI/ML, Quantum Computing & Data Analytics**
 Every repo here is a checkpoint and a fun documentation in that exploration.
 
 </div>
@@ -42,9 +42,10 @@ Every repo here is a checkpoint and a fun documentation in that exploration.
 <img src="https://img.shields.io/badge/CYBERSECURITY-FF3E3E?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/GAME%20DEV-9146FF?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/NEURAL%20NETWORKS-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/AIML-FF6F30?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/QUANTUM%20COMPUTING-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
 <img src="https://img.shields.io/badge/DATA%20ANALYTICS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/GENERATIVE%20AI%20%2F%20AGENTIC%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
@@ -67,6 +68,7 @@ Every repo here is a checkpoint and a fun documentation in that exploration.
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
