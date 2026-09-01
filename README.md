@@ -30,8 +30,8 @@
 <div align="center">
 
 Student at **Karunya Institute of Technology and Sciences**
-Currently exploring **Full-Stack Development, Cybersecurity, Game Development, Neural Networks, AI/ML, Quantum Computing & Data Analytics**
-Every repo here is a checkpoint and a fun documentation in that exploration.
+. Currently exploring **Full-Stack Development, Cybersecurity, Game Development, Neural Networks, AI/ML, Quantum Computing & Data Analytics**
+. Every repo here is a checkpoint and a fun implementation in that exploration.
 
 </div>
 
