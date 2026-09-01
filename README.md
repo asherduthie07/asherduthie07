@@ -3,22 +3,22 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/216656986-9bcf6b7a-6d59-4b2f-a4d3-6e0d47cb8d9c.gif" width="100%">
 <h1 align="center">
-  Hi 👋, I'm Asher
+  Hi, I'm Asher Duthie
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Github+Profile;" />
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 <p align="center">
-🌱 Currently learning <b>Full Stack Development and Cybersecurity</b>
+🌱 Currently a student in Karunya Institute of Technology and Sciences, exploring <b>Full stack Development, Cybersecurity, Game Development, Neural Networks, AIML and Quantum Computing.</b>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-c4d2-4d75-a84f-5f6f1e7d6e72.gif" width="100%">
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/asherduthie07">
