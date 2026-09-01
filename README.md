@@ -50,7 +50,7 @@ Student at **Karunya Institute of Technology and Sciences**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=600&height=35&lines=%3E%3E+Click+to+explore+what+I've+built+%F0%9F%9A%80;%3E%3E+Projects%2C+experiments+%26+everything+in+between+%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=600&height=35&lines=%3E%3E+Click+to+explore+what+I've+built;%3E%3E+Projects%2C+experiments+%26+everything+in+between+%F0%9F%92%BB" />
 
 </div>
 
