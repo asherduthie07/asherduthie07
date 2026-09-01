@@ -13,7 +13,10 @@
 ## About Me
 
 <p align="center">
-🌱 Currently a student in Karunya Institute of Technology and Sciences, exploring <b>Full stack Development, Cybersecurity, Game Development, Neural Networks, AIML and Quantum Computing.</b>
+:- Currently a student in Karunya Institute of Technology and Sciences, 
+</p>
+<p align="center">
+  exploring <b>Full stack Development, Cybersecurity, Game Development, Neural Networks, AIML, Quantum Computing and Data Analytics.</b>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-c4d2-4d75-a84f-5f6f1e7d6e72.gif" width="100%">
