@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00C4FF,60:39FF14,100:0D1117&height=230&section=header&text=ASHER%20DUTHIE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=welcome%20to%20my%20github%profile&descAlignY=52&descSize=19&descColor=39FF14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00C4FF,60:39FF14,100:0D1117&height=230&section=header&text=ASHER%20DUTHIE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&descAlignY=52&descSize=19&descColor=39FF14" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/216656986-9bcf6b7a-6d59-4b2f-a4d3-6e0d47cb8d9c.gif" width="100%">
 
 <h1>
-  Hey, I'm Asher 
+  Hey, I'm Asher Duthie
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
