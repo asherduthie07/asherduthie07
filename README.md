@@ -10,6 +10,7 @@
 </h1>
 
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Github+Profile!;" />
 </p>
