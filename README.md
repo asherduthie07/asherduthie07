@@ -105,12 +105,9 @@ Student at **Karunya Institute of Technology and Sciences**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asherduthie07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4FF&icon_color=39FF14&text_color=c9d1d9&ring_color=00C4FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asherduthie07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4FF&text_color=c9d1d9" width="42%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asherduthie07&theme=tokyonight&hide_border=true&background=0D1117&ring=00C4FF&fire=39FF14&currStreakLabel=00C4FF" width="60%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asherduthie07&bg_color=0D1117&color=00C4FF&line=00C4FF&point=39FF14&area=true&hide_border=true" width="95%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=asherduthie07&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" width="90%" />
 
 </div>
 
