@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/hero.gif" width="100%" alt="Animated grayscale pixel skyline in the rain, with the name Asher Duthie, a walking character, and a flickering transmission display" />
+<img src="https://raw.githubusercontent.com/asherduthie07/asherduthie07/c8f68331f0b1450582aa7c4e16906fbfcf5eb3bb/assets/hero.gif" width="100%" alt="Animated grayscale pixel skyline in the rain, with the name Asher Duthie, a walking character, and a flickering transmission display" />
 
-<img src="assets/frequency.gif" width="100%" alt="Animated monochrome signal monitor" />
+<img src="https://raw.githubusercontent.com/asherduthie07/asherduthie07/c8f68331f0b1450582aa7c4e16906fbfcf5eb3bb/assets/frequency.gif" width="100%" alt="Animated monochrome signal monitor" />
 
 <br>
 
@@ -21,7 +21,7 @@
 
 ---
 
-## `01 / WHO'S AT THE KEYBOARD?`
+<h2><img src="https://raw.githubusercontent.com/asherduthie07/asherduthie07/c8f68331f0b1450582aa7c4e16906fbfcf5eb3bb/assets/section-01.gif" width="100%" alt="01 / WHO'S AT THE KEYBOARD?" /></h2>
 
 Hey, I'm **Asher Duthie**, a student at **Karunya Institute of Technology and Sciences**. I build things, take them apart, and keep following the next interesting idea.
 
@@ -33,7 +33,7 @@ Every repository here is a checkpoint in that exploration: a project, an experim
 > STATUS:       still exploring...
 ```
 
-## `02 / THE MAP`
+<h2><img src="https://raw.githubusercontent.com/asherduthie07/asherduthie07/c8f68331f0b1450582aa7c4e16906fbfcf5eb3bb/assets/section-02.gif" width="100%" alt="02 / THE MAP" /></h2>
 
 | BUILD | EXPLORE | PLAY |
 | :--- | :--- | :--- |
@@ -43,11 +43,11 @@ Every repository here is a checkpoint in that exploration: a project, an experim
 
 <div align="center">
 
-<img src="assets/domains.gif" width="100%" alt="Three animated grayscale pixel panels showing coding, a security scanner, and an arcade ship" />
+<img src="https://raw.githubusercontent.com/asherduthie07/asherduthie07/c8f68331f0b1450582aa7c4e16906fbfcf5eb3bb/assets/domains.gif" width="100%" alt="Three animated grayscale pixel panels showing coding, a security scanner, and an arcade ship" />
 
 </div>
 
-## `03 / THE TOOLBOX`
+<h2><img src="https://raw.githubusercontent.com/asherduthie07/asherduthie07/c8f68331f0b1450582aa7c4e16906fbfcf5eb3bb/assets/section-03.gif" width="100%" alt="03 / THE TOOLBOX" /></h2>
 
 | Slot | Things I've worked with or experimented with |
 | :--- | :--- |
@@ -55,7 +55,7 @@ Every repository here is a checkpoint in that exploration: a project, an experim
 | **Frameworks & runtimes** | React · Angular · Express.js · Node.js |
 | **Tools & engines** | Godot · Git · VS Code |
 
-## `04 / ACTIVITY LOG`
+<h2><img src="https://raw.githubusercontent.com/asherduthie07/asherduthie07/c8f68331f0b1450582aa7c4e16906fbfcf5eb3bb/assets/section-04.gif" width="100%" alt="04 / ACTIVITY LOG" /></h2>
 
 <div align="center">
 
@@ -72,8 +72,6 @@ Every repository here is a checkpoint in that exploration: a project, an experim
 
 <br><br>
 
-<img src="assets/footer.gif" width="100%" alt="Animated grayscale pixel scene with a walking character and the message Still exploring, always will be" />
+<img src="https://raw.githubusercontent.com/asherduthie07/asherduthie07/c8f68331f0b1450582aa7c4e16906fbfcf5eb3bb/assets/footer.gif" width="100%" alt="Animated grayscale pixel scene with a walking character and the message Still exploring, always will be" />
 
 </div>
-
-<!-- Animated artwork source: scripts/build_art.py. Regenerate with python3 scripts/build_art.py (requires Pillow). -->
