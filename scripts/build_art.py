@@ -98,7 +98,7 @@ def walker(d: ImageDraw.ImageDraw, x: int, y: int, t: int):
 
 
 def hero(t: int) -> Image.Image:
-    im, d = frame(480, 180, "//  ASHER_DUTHIE.exe                         PROFILE / 001")
+    im, d = frame(480, 180, "//  01 / ASHER_DUTHIE.exe")
     # The skyline, moon, rain, signal lamp, and sprite each animate independently.
     d.ellipse((367, 28, 429, 90), fill=(31, 33, 37))
     d.ellipse((378, 39, 418, 79), fill=(188, 190, 193))
@@ -127,7 +127,7 @@ def hero(t: int) -> Image.Image:
     d.rectangle((26, 132, 26 + (t * 9) % 238, 133), fill=WHITE)
     d.rectangle((12, 143, 269, 169), fill=PANEL)
     d.rectangle((13, 144, 268, 168), outline=MID)
-    text(d, (20, 151), "> FULL-STACK  /  SECURITY  /  GAME DEV", LIT, F9)
+    text(d, (20, 151), "> FULL-STACK  /  AIML  /  GAME DEV", LIT, F9)
     d.rectangle((294, 22, 472, 37), fill=PANEL)
     text(d, (302, 25), "STATUS : STILL EXPLORING", LIT, F8)
     d.rectangle((461, 26, 465, 30), fill=WHITE if t % 10 < 5 else MID)
@@ -137,7 +137,7 @@ def hero(t: int) -> Image.Image:
 
 
 def frequency(t: int) -> Image.Image:
-    im, d = frame(480, 56, "//  SIGNAL MONITOR")
+    im, d = frame(480, 56, "//  02 / SIGNAL MONITOR")
     d.rectangle((20, 29, 460, 30), fill=MID)
     for x in range(22, 459, 4):
         distance = abs(x - ((t * 16) % 520 - 20))
@@ -149,7 +149,7 @@ def frequency(t: int) -> Image.Image:
 
 
 def domains(t: int) -> Image.Image:
-    im, d = frame(480, 98, "//  ACTIVE QUESTS")
+    im, d = frame(480, 98, "//  03 / ACTIVE QUESTS")
     for x, label in ((17, "01  BUILD"), (171, "02  EXPLORE"), (325, "03  PLAY")):
         d.rectangle((x, 28, x + 138, 81), fill=PANEL, outline=MID)
         text(d, (x + 9, 35), label, LIT, F9)
@@ -180,7 +180,7 @@ def domains(t: int) -> Image.Image:
 
 
 def footer(t: int) -> Image.Image:
-    im, d = frame(480, 94, "//  END OF FILE                                       004 / 004")
+    im, d = frame(480, 94, "//  04 / END OF FILE")
     rng = random.Random(407)
     for _ in range(56):
         x, y = rng.randrange(17, 462), rng.randrange(25, 75)
@@ -194,6 +194,19 @@ def footer(t: int) -> Image.Image:
     d.rectangle((120, 30, 363, 67), outline=MID)
     text(d, (138, 37), "STILL EXPLORING...", WHITE, F11)
     text(d, (165, 53), "ALWAYS WILL BE" + ("_" if t % 10 < 6 else " "), SOFT, F8)
+    return im
+
+
+def section(t: int, label: str) -> Image.Image:
+    im, d = frame(480, 44, "")
+    text(d, (18, 13), label, LIT, F11)
+    # A moving underline and staggered signal bars animate the section title.
+    d.line((18, 32, 414, 32), fill=MID)
+    start = 18 + (t * 11) % 355
+    d.line((start, 32, start + 41, 32), fill=WHITE)
+    for i in range(4):
+        height = 4 + ((i + t // 3) % 4) * 4
+        d.rectangle((432 + i * 7, 30 - height, 435 + i * 7, 30), fill=LIT if (i + t // 3) % 4 == 3 else MID)
     return im
 
 
@@ -217,3 +230,10 @@ if __name__ == "__main__":
     save("frequency.gif", frequency, 75)
     save("domains.gif", domains, 85)
     save("footer.gif", footer, 90)
+    for name, label in (
+        ("section-01.gif", "01 / WHO'S AT THE KEYBOARD?"),
+        ("section-02.gif", "02 / THE MAP"),
+        ("section-03.gif", "03 / THE TOOLBOX"),
+        ("section-04.gif", "04 / ACTIVITY LOG"),
+    ):
+        save(name, lambda t, label=label: section(t, label), 85)
