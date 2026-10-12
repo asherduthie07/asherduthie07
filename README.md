@@ -1,142 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00C4FF,60:39FF14,100:0D1117&height=230&section=header&text=ASHER%20DUTHIE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&descAlignY=52&descSize=19&descColor=39FF14" width="100%"/>
+<img src="assets/hero.gif" width="100%" alt="Animated grayscale pixel skyline in the rain, with the name Asher Duthie, a walking character, and a flickering transmission display" />
 
-<img src="https://user-images.githubusercontent.com/74038190/216656986-9bcf6b7a-6d59-4b2f-a4d3-6e0d47cb8d9c.gif" width="100%">
-
-<h1>
-  Hey, I'm Asher Duthie
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Github+Profile!;" />
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Full-Stack+Dev+%F0%9F%92%BB+%7C+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F+%7C+Game+Dev+%F0%9F%8E%AE;AI%2FML+%F0%9F%A4%96+%7C+Quantum+Computing+%E2%9A%9B%EF%B8%8F+%7C+Data+Analytics+%F0%9F%93%8A" />
+<img src="assets/frequency.gif" width="100%" alt="Animated monochrome signal monitor" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=asherduthie07&label=PROFILE+VIEWS&color=00C4FF&style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/github/followers/asherduthie07?style=for-the-badge&color=39FF14&labelColor=0D1117&label=FOLLOWERS" />
-
-</div>
+<code>[ STUDENT ]</code> &nbsp; <code>//</code> &nbsp; <code>[ BUILDER ]</code> &nbsp; <code>//</code> &nbsp; <code>[ ALWAYS EXPLORING ]</code>
 
 <br>
 
-## About Me
-
-<div align="center">
-
-Student at **Karunya Institute of Technology and Sciences**
-. Currently exploring **Full-Stack Development, Cybersecurity, Game Development, Neural Networks, AI/ML, Quantum Computing & Data Analytics**
-. Every repo here is a checkpoint and a fun implementation in that exploration.
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-c4d2-4d75-a84f-5f6f1e7d6e72.gif" width="100%">
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/asherduthie07?tab=repositories">
-
-<img src="https://img.shields.io/badge/%E2%9A%A1%20EXPLORE%20MY%20REPOSITORIES-00C4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-
-</a>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=600&height=35&lines=%3E%3E+Click+to+explore+what+I've+built;%3E%3E+Projects%2C+experiments+%26+everything+in+between+%F0%9F%92%BB" />
-
-</div>
-
-
-
-
-
-## Domains I'm Currently Exploring
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FULL--STACK-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
-<img src="https://img.shields.io/badge/CYBERSECURITY-FF3E3E?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/GAME%20DEV-9146FF?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/NEURAL%20NETWORKS-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/QUANTUM%20COMPUTING-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-
-</div>
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-**Frameworks & Tools I've been experimenting with**
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-c4d2-4d75-a84f-5f6f1e7d6e72.gif" width="100%">
-
-## GitHub Stats
-
-<div align="center">
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asherduthie07&bg_color=0D1117&color=00C4FF&line=00C4FF&point=39FF14&area=true&hide_border=true" width="95%" />
-
-
-</div>
-
-<!--
-SNAKE GAME (contribution graph eaten by a snake) — one-time setup required,
-same workflow file (snake.yml) from the terminal version works here too.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/asherduthie07/asherduthie07/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
--->
-
-<img src="https://user-images.githubusercontent.com/74038190/216656986-9bcf6b7a-6d59-4b2f-a4d3-6e0d47cb8d9c.gif" width="100%">
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/asherduthie07">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/asherduthie">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://github.com/asherduthie07?tab=repositories"><img src="https://img.shields.io/badge/OPEN_THE_PROJECT_ARCHIVE-202126?style=for-the-badge&amp;logo=github&amp;logoColor=E8E8E8&amp;labelColor=0B0C0E" alt="Explore my repositories" /></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=39FF14&center=true&vCenter=true&width=600&lines=thanks+for+stopping+by+%F0%9F%91%80;still+exploring...+always+will+be" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:39FF14,100:00C4FF&height=110&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=asherduthie07&amp;label=PROFILE%20VIEWS&amp;color=55575C&amp;style=flat-square&amp;labelColor=17181B" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/asherduthie07?style=flat-square&amp;color=55575C&amp;labelColor=17181B&amp;label=FOLLOWERS" alt="GitHub followers" />
 
 </div>
+
+---
+
+## `01 / WHO'S AT THE KEYBOARD?`
+
+Hey, I'm **Asher Duthie**, a student at **Karunya Institute of Technology and Sciences**. I build things, take them apart, and keep following the next interesting idea.
+
+Every repository here is a checkpoint in that exploration: a project, an experiment, or a fun implementation of something I wanted to understand better.
+
+```text
+> CURRENT MODE: learning in public
+> NEXT QUEST:   whatever sparks curiosity
+> STATUS:       still exploring...
+```
+
+## `02 / THE MAP`
+
+| BUILD | EXPLORE | PLAY |
+| :--- | :--- | :--- |
+| Full-stack development | Cybersecurity | Game development |
+| AI / ML and generative AI | Neural networks | Quantum computing |
+| Data analytics |  |  |
+
+<div align="center">
+
+<img src="assets/domains.gif" width="100%" alt="Three animated grayscale pixel panels showing coding, a security scanner, and an arcade ship" />
+
+</div>
+
+## `03 / THE TOOLBOX`
+
+| Slot | Things I've worked with or experimented with |
+| :--- | :--- |
+| **Languages** | Java · Python · C · JavaScript · HTML5 · CSS3 |
+| **Frameworks & runtimes** | React · Angular · Express.js · Node.js |
+| **Tools & engines** | Godot · Git · VS Code |
+
+## `04 / ACTIVITY LOG`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asherduthie07&amp;bg_color=0B0C0E&amp;color=B8B9BC&amp;line=8F9298&amp;point=F1F1F1&amp;area=true&amp;area_color=404247&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20SIGNAL" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+## `05 / OPEN A CHANNEL`
+
+<div align="center">
+
+<a href="https://github.com/asherduthie07"><img src="https://img.shields.io/badge/GitHub-1B1C20?style=for-the-badge&amp;logo=github&amp;logoColor=E8E8E8" alt="GitHub profile" /></a>
+<a href="https://linkedin.com/in/asherduthie"><img src="https://img.shields.io/badge/LinkedIn-33353A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=E8E8E8" alt="LinkedIn profile" /></a>
+
+<br><br>
+
+<img src="assets/footer.gif" width="100%" alt="Animated grayscale pixel scene with a walking character and the message Still exploring, always will be" />
+
+</div>
+
+<!-- Animated artwork source: scripts/build_art.py. Regenerate with python3 scripts/build_art.py (requires Pillow). -->
