@@ -60,7 +60,7 @@ Every repository here is a checkpoint in that exploration: a project, an experim
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asherduthie07&amp;bg_color=0B0C0E&amp;color=B8B9BC&amp;line=8F9298&amp;point=F1F1F1&amp;area=true&amp;area_color=404247&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20SIGNAL" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://vercel.app" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
