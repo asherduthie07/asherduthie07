@@ -6,7 +6,7 @@
 
 <br>
 
-<code>[ STUDENT ]</code> &nbsp; <code>//</code> &nbsp; <code>[ BUILDER ]</code> &nbsp; <code>//</code> &nbsp; <code>[ ALWAYS EXPLORING ]</code>
+<code>[ STUDENT ]</code> &nbsp; <code>//</code> &nbsp; <code>[ BUILDING ]</code> &nbsp; <code>//</code> &nbsp; <code>[ EXPLORING MULTIPLE DOMAINS RN]</code>
 
 <br>
 
