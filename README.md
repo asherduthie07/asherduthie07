@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="font-family: 'Courier New', Courier, monospace; background-color: #0d1117; color: #39ff14; padding: 20px; border-radius: 6px;" >
 
 <img src="https://raw.githubusercontent.com/asherduthie07/asherduthie07/c8f68331f0b1450582aa7c4e16906fbfcf5eb3bb/assets/hero.gif" width="100%" alt="Animated grayscale pixel skyline in the rain, with the name Asher Duthie, a walking character, and a flickering transmission display" />
 
