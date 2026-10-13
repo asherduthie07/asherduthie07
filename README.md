@@ -9,9 +9,9 @@
 <code>[ STUDENT AT KARUNYA ]</code> &nbsp; <code>//</code> &nbsp; <code>[ PASSIONATE ABOUT BUILDING NEW STUFF ]</code> &nbsp; <code>//</code> &nbsp; <code>[ EXPLORING MULTIPLE DOMAINS RN]</code>
 
 <br>
-<code>[ CLICK HERE TO CHECK OUT MY REPOS ]</code> &nbsp; <code>---></code>  &nbsp;
+<code> <en>Click here to check out my repos!</en> </code> &nbsp; <code>---></code>  &nbsp;
 <a href="https://github.com/asherduthie07?tab=repositories"><img src="https://img.shields.io/badge/OPEN_THE_PROJECT_ARCHIVE-202126?style=for-the-badge&amp;logo=github&amp;logoColor=E8E8E8&amp;labelColor=0B0C0E" alt="Explore my repositories" /></a>
- &nbsp; <code><---</code>  &nbsp; <code>[ CLICK HERE TO CHECK OUT MY REPOS ]</code>
+ &nbsp; <code><---</code>  &nbsp; <code><en>Click here to check out my repos!</en></code>
 
 <br><br>
 
