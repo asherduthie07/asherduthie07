@@ -6,7 +6,7 @@
 
 <br>
 
-<code>[ STUDENT AT KARUNYA ]</code> &nbsp; <code>//</code> &nbsp; <code>[ PASSIONATE ABOUT BUILDING NEW STUFF ]</code> &nbsp; <code>//</code> &nbsp; <code>[ EXPLORING MULTIPLE DOMAINS RN]</code>
+<code>[ STUDENT AT KARUNYA ]</code> &nbsp; <code>//</code> &nbsp; <code>[ PASSIONATE ABOUT BUILDING NEW STUFF ]</code> &nbsp; <code>//</code> &nbsp; <code>[ EXPLORING DIFFERENT DOMAINS RN]</code>
 
 <br>
 <code> <en>Click here to check out my repos!</en> </code> &nbsp; <code>---></code>  &nbsp;
