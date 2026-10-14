@@ -11,15 +11,15 @@
 <br>
 <code> <en>Click here to check out my repos!</en> </code>
 <br>
-||
+ |
 <br>
-\/
+ V
 <br>
----------------------------
+//-----------------------------------\\
 <br>
 <code> || </code><a href="https://github.com/asherduthie07?tab=repositories"><img src="https://img.shields.io/badge/OPEN_THE_PROJECT_ARCHIVE-202126?style=for-the-badge&amp;logo=github&amp;logoColor=E8E8E8&amp;labelColor=0B0C0E" alt="Explore my repositories" /></a> <code> || </code>
 <br>
----------------------------
+//-----------------------------------\\
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=asherduthie07&amp;label=PROFILE%20VIEWS&amp;color=55575C&amp;style=flat-square&amp;labelColor=17181B" alt="Profile views" />
